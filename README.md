@@ -1,3 +1,1 @@
-the rblx script builder opps are on me !
-
-ask me for my main
+using an alt for school may be unnecessary
