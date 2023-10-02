@@ -22,7 +22,7 @@ local function hypernull(callback, ...)
     if v then
         return callback(...)
     end
-    hypernull(callback, ...)
+   task.spawn(hypernull, callback, ...)
 end
 
 -- original variant of hypernull
